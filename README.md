@@ -11,7 +11,7 @@
 
 - 📬 Reach out to me:<br>
   - Email: emanueltute95@gmail.com<br>
-  - Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/emanuel-mendoza-09481995)<br><br>
+  - Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)<br><br>
 
 ## Profile Visitors Count: 
 ![Visitor Count](https://profile-counter.glitch.me/Emanuell95/count.svg)
@@ -19,7 +19,7 @@
 
 ## 🌐 Socials:
 <a href="emanueltute95@gmail.com" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%23D14836" alt="gmail" /></a>
-<a target="_blank" href="www.linkedin.com/in/emanuel-mendoza-09481995" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.linkedin.com/feed/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 
 
 ## 🧠 Problem-Solving Portfolios:
