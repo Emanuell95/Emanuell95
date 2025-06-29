@@ -55,8 +55,8 @@
 # <img src='https://i.gifer.com/6x6G.gif' width="50" height="40px"> GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=Emanuell95&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# 🔝 Top Contributed Repo  
-![](https://github-readme-stats.vercel.app/api?username=Emanuell95&show_icons=true&theme=radical)
+# 🔝 Top Contributed Repo    
+![](https://github-contributor-stats.vercel.app/api?username=Emanuell95&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # <img src="https://content.presentermedia.com/files/animsp/00006000/6550/pie_chart_stick_figure_runner_lg_wm.gif" width="70" height="50px"> Code Chronicles & Insights
   
