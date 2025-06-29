@@ -25,15 +25,12 @@
 ## 🧠 Problem-Solving Portfolios:
 <a target="_blank" href="https://www.hackerrank.com/profile/emanueltute95" style="display: inline-block;"><img src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="hackerrank" width="110" height="30" /></a>
 <a target="_blank" href="https://www.geeksforgeeks.org/user/emanuelga3y/" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" width="100" height="25" /></a>
-<a target="_blank" href="https://leetcode.com/u/" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="leetcode" width="110" height="20" /></a>
 
 
 ## 📝 Blogs & 🎨 Design Portfolios:
 <a target="_blank" href="https://stackoverflow.com/users/" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a>
 <a target="_blank" href="https://dev.to/" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.codepen.io/" style="display: inline-block;"><img src="https://assets.codepen.io/t-1/codepen-logo.svg" alt="codepen" width="60" height="30" /></a>
-
-
 
 ## <img src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif" width="50" height="35px" alt="Link Laptop Computer"> The Tools Behind My Craft
 
