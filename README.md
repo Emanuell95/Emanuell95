@@ -1,11 +1,10 @@
 
 
-<h1 align="center">Hi there👋🏻, I'm Emanuel Mendoza</h1>
-<h3 align="center">Code, Quality and Innovation — That's What I Do 👩🏻‍💻💡🚀 </h3>
-<h2 align="center">Blending my Development Expertise with a Strong Commitment to Quality !! 💻🔧✅ </h2>
+## 🙌 Emanuel Mendoza – Building Code with Purpose
 
+🧠 "Innovation without quality is chaos — I build both."  
+🎓 Holberton-trained | 💻 Developer by passion | 🔍 Quality Engineer by mindset
 
-- 👩🏻‍🎓  Alumnus of Holberton Coding School degree in Computer Science and Engineering (Cohort ) ❤️<br><br>
 - 💪🏻 Crafting Code while Ensuring Quality - Full Stack Developer by Passion, Quality Engineer by Profession 😌 <br><br>
 - 🤝 Collaboration is key! I enjoy working on projects and contributing to open-source solutions<br><br>
 
