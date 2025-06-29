@@ -5,7 +5,7 @@
 🧠 "Innovation without quality is chaos — I build both."  
 🎓 Holberton-trained | 💻 Developer by passion | 🔍 Quality Engineer by mindset
 
-- 💪🏻 Crafting Code while Ensuring Quality - Full Stack Developer by Passion, Quality Engineer by Profession 😌 <br><br>
+- 💪🏻 Crafting Code while Ensuring Quality - Full Stack Developer by Passion, Quality Engineer by Profession 😌 <br>
 - 🤝 Collaboration is key! I enjoy working on projects and contributing to open-source solutions<br><br>
 
 - 📬 Reach out to me:<br>
