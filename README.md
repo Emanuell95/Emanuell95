@@ -6,7 +6,7 @@
 
 
 - 👩🏻‍🎓  Alumnus of Holberton Coding School degree in Computer Science and Engineering (Cohort ) ❤️<br><br>
-- 😍 Crafting Code while Ensuring Quality - Full Stack Developer by Passion, Quality Engineer by Profession 😌 <br><br>
+- 💪🏻 Crafting Code while Ensuring Quality - Full Stack Developer by Passion, Quality Engineer by Profession 😌 <br><br>
 - 🤝 Collaboration is key! I enjoy working on projects and contributing to open-source solutions<br><br>
 
 - 📬 Reach out to me:<br>
@@ -46,14 +46,14 @@
 | **DevOps**                  | <img src="https://skillicons.dev/icons?i=googlecloud" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=kubernetes" width="42" height="42"/> |
 | **Frameworks & Libraries**  | <img src="https://skillicons.dev/icons?i=flask" width="42" height="42"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="42" height="42"/> |
 | **Testing**                 <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="42" height="42"/> |
-| **Platforms, Tools**        <img src="https://skillicons.dev/icons?i=postman" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=pycharm" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/><img src="https://skillicons.dev/icons?i=windows" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=apple" width="42" height="42"/> |
-| **Version Control**         | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/> <img src="https://github.com/rdimascio/icons/blob/master/icons/github.svg" width="42" height="42"/>
+| **Platforms, Tools**        |  <img src="https://skillicons.dev/icons?i=postman" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=pycharm" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/><img src="https://skillicons.dev/icons?i=windows" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=apple" width="42" height="42"/> |
+| **Version Control**         | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/> <img src="https://github.com/rdimascio/icons/blob/master/icons/github.svg" width="42" height="42"/> |
 
 
 # <img src='https://media1.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif?cid=6c09b9520fbeh3st3881aensbfaaw9cvqfnfblovomtx4q8g&ep=v1_gifs_search&rid=giphy.gif&ct=g' width="50" height="40px"> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hema-priya-vadivel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hema-priya-vadivel&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hema-priya-vadivel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Emanuell95&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Emanuell95&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuell95&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # <img src='https://i.gifer.com/6x6G.gif' width="50" height="40px"> GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=Emanuell95&theme=radical&no-frame=false&no-bg=false&margin-w=4)
