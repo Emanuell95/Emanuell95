@@ -42,7 +42,7 @@
 | **Database**                | <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=mysql" width="42" height="42"/> |
 | **DevOps**                  | <img src="https://skillicons.dev/icons?i=googlecloud" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=kubernetes" width="42" height="42"/> |
 | **Frameworks & Libraries**  | <img src="https://skillicons.dev/icons?i=flask" width="42" height="42"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="42" height="42"/> |
-| **Testing**                 <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="42" height="42"/> |
+| **Testing**                 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="42" height="42"/> |
 | **Platforms, Tools**        |  <img src="https://skillicons.dev/icons?i=postman" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=pycharm" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/><img src="https://skillicons.dev/icons?i=windows" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=apple" width="42" height="42"/> |
 | **Version Control**         | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/> <img src="https://github.com/rdimascio/icons/blob/master/icons/github.svg" width="42" height="42"/> |
 
