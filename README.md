@@ -58,8 +58,10 @@
 # 🔝 Top Contributed Repo    
 ![](https://github-contributor-stats.vercel.app/api?username=Emanuell95&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# <img src="https://content.presentermedia.com/files/animsp/00006000/6550/pie_chart_stick_figure_runner_lg_wm.gif" width="70" height="50px"> Code Chronicles & Insights
-  
+
+
+# 📊 Thanks for visiting my profile!  
+![Visitor Badge](https://komarev.com/ghpvc/?username=Emanuell95&style=flat-square&color=brightgreen)
 
 
 ------
