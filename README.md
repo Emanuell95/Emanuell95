@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi there👋🏻, I'm Emanuel Mendoza</h1>
 <h3 align="center">Code, Quality and Innovation — That's What I Do 👩🏻‍💻💡🚀 </h3>
@@ -55,8 +55,7 @@
 # <img src='https://i.gifer.com/6x6G.gif' width="50" height="40px"> GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=Emanuell95&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# 🔝 Top Contributed Repo    
-![](https://github-contributor-stats.vercel.app/api?username=Emanuell95&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
