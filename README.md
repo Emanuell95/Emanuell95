@@ -13,7 +13,7 @@
   - Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)<br><br>
 
 ## Profile Visitors Count: 
-![Visitor Count](https://profile-counter.glitch.me/Emanuell95/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Emanuell95&label=VISITORS&color=blue&style=flat)
 
 
 ## 🌐 Socials:
